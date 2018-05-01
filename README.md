@@ -2,13 +2,13 @@
 
 PySpark
 
-**Software: **
+** Software: **
 www.databricks.com
 
-**Problem Statement: **
+** Problem Statement: **
 A marketing agency has many customers that use their service to produce ads for the client / customer websites. They want to create a machine learning model that will help predict which customers will churn. 
 
-**Dataset: **
+** Dataset: **
 * Name: Name of the latest contact at Company
 * Age: Customer Age
 * Total_Purchase: Total Ads Purchased
