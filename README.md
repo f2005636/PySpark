@@ -12,7 +12,7 @@ A marketing agency has many customers that use their service to produce ads for 
 
 **Dataset:**
 
-*Name: Name of the latest contact at Company
+* Name: Name of the latest contact at Company
 
 *Age: Customer Age
 
