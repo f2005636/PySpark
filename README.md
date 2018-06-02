@@ -5,18 +5,17 @@
 www.databricks.com
 
 
-**Problem Statement:**
+**Customer Churn Model:**
+*Logistics Regression: Accuracy – 80.86%
+*Decision Tree: Accuracy – 84.78%
+*Random Forest: Accuracy – 85.82%
+*Gradient Boosting: Accuracy – 86.50%
 
-A marketing agency has many customers that use their service to produce ads for the client / customer websites. They want to create a machine learning model that will help predict which customers will churn. 
+
+**Segmenting Mall Customers:**
+*K Means: In cluster variance – 305 (Elbow method) 
 
 
-**Dataset:**
-* Name: Name of the latest contact at Company
-* Age: Customer Age
-* Total_Purchase: Total Ads Purchased
-* Account_Manager: Binary 0=No manager, 1= Account manager assigned
-* Years: Totaly Years as a customer
-* Num_sites: Number of websites that use the service.
-* Onboard_date: Date that the name of the latest contact was onboarded
-
-Train has 500 rows and Test has 600 rows 
+**NLP:**
+*SMS Classification: Accuracy – 93.67%
+*Review Classification: Accuracy – 75.30%
